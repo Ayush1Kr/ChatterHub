@@ -1,8 +1,8 @@
-package com.aryan.app.service;
+package com.ayush.app.service;
 
 import java.util.List;
 
-import com.aryan.app.models.entity.User;
+import com.ayush.app.models.entity.User;
 
 public interface UserService {
     public User registerUser(User user) throws Exception;

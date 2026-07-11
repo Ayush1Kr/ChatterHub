@@ -1,4 +1,4 @@
-package com.aryan.app.controller;
+package com.ayush.app.controller;
 
 import java.util.List;
 
@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.aryan.app.models.entity.Post;
-import com.aryan.app.response.ApiResponse;
-import com.aryan.app.service.PostService;
+import com.ayush.app.models.entity.Post;
+import com.ayush.app.response.ApiResponse;
+import com.ayush.app.service.PostService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.PutMapping;
 

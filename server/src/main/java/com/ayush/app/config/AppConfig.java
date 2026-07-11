@@ -1,4 +1,4 @@
-package com.aryan.app.config;
+package com.ayush.app.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -25,11 +25,3 @@ public class AppConfig {
     }
 }
 
-// iska matlab hai ki agar hamara api ka endpoint /api/ se start hota hai tohame
-// bo authenticated request hai and usko password se secure karna hai yani login
-// logout banana hai usko
-// Authorize.requestMatchers("/api/**").authenticated()
-
-// iska matlab baaki ki api ko permit kar do bina password ke allow kardo. isko
-// koi bhi access kar sakta hai
-// .anyRequest().permitAll()

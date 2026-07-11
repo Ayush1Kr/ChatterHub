@@ -1,4 +1,4 @@
-package com.aryan.app.dtos;
+package com.ayush.app.dtos;
 
 import java.time.LocalDateTime;
 import lombok.AllArgsConstructor;

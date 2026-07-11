@@ -1,4 +1,4 @@
-package com.aryan.app;
+package com.ayush.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

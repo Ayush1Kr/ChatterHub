@@ -1,4 +1,4 @@
-package com.aryan.app.models.entity;
+package com.ayush.app.models.entity;
 
 import java.util.ArrayList;
 import java.util.List;

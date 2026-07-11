@@ -1,8 +1,8 @@
-package com.aryan.app.service;
+package com.ayush.app.service;
 
 import java.util.List;
 
-import com.aryan.app.models.entity.Post;
+import com.ayush.app.models.entity.Post;
 
 public interface PostService {
 

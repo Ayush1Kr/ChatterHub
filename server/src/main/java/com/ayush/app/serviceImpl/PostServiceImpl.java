@@ -1,14 +1,14 @@
-package com.aryan.app.serviceImpl;
+package com.ayush.app.serviceImpl;
 
 import java.time.LocalDateTime;
 import java.util.List;
 import org.springframework.stereotype.Service;
-import com.aryan.app.models.entity.Post;
-import com.aryan.app.models.entity.User;
-import com.aryan.app.repository.PostRepository;
-import com.aryan.app.repository.UserRepository;
-import com.aryan.app.service.PostService;
-import com.aryan.app.service.UserService;
+import com.ayush.app.models.entity.Post;
+import com.ayush.app.models.entity.User;
+import com.ayush.app.repository.PostRepository;
+import com.ayush.app.repository.UserRepository;
+import com.ayush.app.service.PostService;
+import com.ayush.app.service.UserService;
 
 import lombok.AllArgsConstructor;
 

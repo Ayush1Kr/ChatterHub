@@ -1,10 +1,10 @@
-package com.aryan.app.controller;
+package com.ayush.app.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.aryan.app.models.entity.User;
-import com.aryan.app.repository.UserRepository;
-import com.aryan.app.service.UserService;
+import com.ayush.app.models.entity.User;
+import com.ayush.app.repository.UserRepository;
+import com.ayush.app.service.UserService;
 
 import lombok.AllArgsConstructor;
 

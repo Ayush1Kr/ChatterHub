@@ -1,4 +1,4 @@
-package com.aryan.app.dtos;
+package com.ayush.app.dtos;
 
 import java.util.List;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.aryan.app.response;
+package com.ayush.app.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

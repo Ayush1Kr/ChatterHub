@@ -1,4 +1,4 @@
-package com.aryan.app.repository;
+package com.ayush.app.repository;
 
 import java.util.List;
 import java.util.Optional;
@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.aryan.app.models.entity.User;
+import com.ayush.app.models.entity.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Integer> {

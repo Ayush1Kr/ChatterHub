@@ -1,4 +1,4 @@
-package com.aryan.app.repository;
+package com.ayush.app.repository;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import com.aryan.app.models.entity.Post;
+import com.ayush.app.models.entity.Post;
 
 @Repository
 public interface PostRepository extends JpaRepository<Post, Integer> {
